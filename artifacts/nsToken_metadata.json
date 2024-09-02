@@ -211,11 +211,11 @@
 	},
 	"sources": {
 		"createToken.sol": {
-			"keccak256": "0x9c80709538f7fab183f9074cd0c969f6719251c0c5849a2fb7bdea67c77bc5e1",
+			"keccak256": "0x575d4912574cd6e1c81be63324c03d6ddda55816fcaacc2a1a04f71ee53f3c83",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://b6fc4dac09036076a96d9d335988ea3836ebdd9e8f757448e877e0fec4b359c0",
-				"dweb:/ipfs/QmfJHLjx9PzpxqYSLYFuJezyPikub7S3vF4T5WR6zqaA7P"
+				"bzz-raw://2b4f1ac93dc774fa9ed277852c97338d8cd1c8132195ad422fcf9e1f48df3c1d",
+				"dweb:/ipfs/QmNxu8yRDSuFNK3ZLSUpUuY6owvy1oLiCWvdEs8CvdrhCy"
 			]
 		}
 	},
