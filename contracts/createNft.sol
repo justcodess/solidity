@@ -2,8 +2,8 @@
 
 pragma solidity ^0.8.24;
 
-contract OykNft {
-    string public name = "Ozgur Yazilim Kampi ns NFT Collection";
+contract nsNft {
+    string public name = "NS NFT Collection";
     string public symbol = "NS";
 
     mapping(address => uint256) public balanceOf;
